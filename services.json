@@ -1,0 +1,12 @@
+{
+    "services": [
+        {
+            "id": "test-python",
+            "name": "Python Test Service",
+            "description": "Test service that prints colored output to verify ANSI rendering and unbuffered output",
+            "command": "python test_service.py",
+            "cwd": "/Users/daniel/Desktop/git/services-hub",
+            "autoStart": false
+        }
+    ]
+}
